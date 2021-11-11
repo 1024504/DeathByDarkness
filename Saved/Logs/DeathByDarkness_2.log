@@ -1054,3 +1054,1076 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-00.47.33:392][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2021.11.11-00.47.33:400][162]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-00.47.33:413][163]LogStaticMesh: Allocated 504x115x64 distance field atlas = 7.1Mb, with 94 objects containing 3.3Mb backing data
+[2021.11.11-00.48.17:586][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\Realistic_Starter_VFX_Pack\Demo_Room\BluePrint\BP_DemoRoom.uasset: [Compiler] Set Text (String) : Usage of 'Set Text (String)' has been deprecated. Use the SetText function taking an FText instead.
+[2021.11.11-00.48.17:586][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\Realistic_Starter_VFX_Pack\Demo_Room\BluePrint\BP_DemoRoom.uasset: [Compiler] Set Text (String) : Usage of 'Set Text (String)' has been deprecated. Use the SetText function taking an FText instead.
+[2021.11.11-00.48.17:808][573]LogMaterial: Display: Missing cached shadermap for PoliceCarFlick in PCD3D_SM5, Default, SM5 (DDC key hash: 7AC0FFF7FA4D82A54D73BBC51140D579742E1D0D), compiling. 
+[2021.11.11-00.48.17:851][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:856][573]LogMaterial: Display: Missing cached shadermap for M_GoodSky_StormLightning_LightFunction in PCD3D_SM5, Default, SM5 (DDC key hash: 60709EBDCE6057AE0EC84DFADCDDD2152E090C8D), compiling. 
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Started 23 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:871][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:874][573]LogMaterial: Display: Missing cached shadermap for LightFlick5 in PCD3D_SM5, Default, SM5 (DDC key hash: 507F0BFED91D57AF06E9B0036B0A9A16ED8A74F0), compiling. 
+[2021.11.11-00.48.17:886][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:891][573]LogMaterial: Display: Missing cached shadermap for T_exotivLeaf_c in PCD3D_SM5, Default, SM5 (DDC key hash: 85B9B2EDDC3D5074028904A4A2CDA558179EA823), compiling. 
+[2021.11.11-00.48.17:934][573]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:938][573]LogMaterial: Display: Missing cached shadermap for PoliceCarFlick_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 60509FB8214873064B3744A140DAB60B25E0461D), compiling. 
+[2021.11.11-00.48.17:953][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:956][573]LogMaterial: Display: Missing cached shadermap for LightFlick4 in PCD3D_SM5, Default, SM5 (DDC key hash: 39853B001A468EECB16F6349B3E4B2BB96621EBA), compiling. 
+[2021.11.11-00.48.17:972][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.17:986][573]LogMaterial: Display: Missing cached shadermap for curtain_white in PCD3D_SM5, Default, SM5 (DDC key hash: 9498D8BBAE8BF58ED98A0B2098CA889BE724D135), compiling. 
+[2021.11.11-00.48.18:000][573]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:006][573]LogMaterial: Display: Missing cached shadermap for particlesAdd in PCD3D_SM5, Default, SM5 (DDC key hash: 0BC5EBF29101A687D9A74FFD8C1736BF73652555), compiling. 
+[2021.11.11-00.48.18:065][573]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:072][573]LogMaterial: Display: Missing cached shadermap for woodenFloor in PCD3D_SM5, Default, SM5 (DDC key hash: AB03EA04A32EB35F381DC96BAEAECBC80AE8C259), compiling. 
+[2021.11.11-00.48.18:119][573]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:124][573]LogMaterial: Display: Missing cached shadermap for T_exoticBark_a in PCD3D_SM5, Default, SM5 (DDC key hash: 190FB6DEC2A111214820CB74D930381DD89E9BEF), compiling. 
+[2021.11.11-00.48.18:140][573]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:144][573]LogMaterial: Display: Missing cached shadermap for LightFlick3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7835BE792C4AB88515D12954442F361E0EC8CCEC), compiling. 
+[2021.11.11-00.48.18:159][573]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:171][573]LogMaterial: Display: Missing cached shadermap for M_ColorGrid_LowSpec in PCD3D_SM5, Default, SM5 (DDC key hash: 14BBFFF101C333C19BB6F3D0EF0ED96EC41213A7), compiling. 
+[2021.11.11-00.48.18:199][573]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:202][573]LogMaterial: Display: Missing cached shadermap for 000_Parent_Trunk_Basic in PCD3D_SM5, Default, SM5 (DDC key hash: AD4745D0848BDAA4BC5F964A37E3A083CDD00BA9), compiling. 
+[2021.11.11-00.48.18:262][573]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.18:269][573]LogMaterial: Display: Missing cached shadermap for M_Explosion_C in PCD3D_SM5, Default, SM5 (DDC key hash: 42665CE7BC435601987A0F125EB8B7B22EFACD51), compiling. 
+[2021.11.11-00.48.18:352][573]LogShaderCompilers: Display: Submitted 96 shader compile jobs with 'Low' priority
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 391
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 381
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 371
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.19:505][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:516][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:543][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:553][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:572][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:582][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.19:584][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.11-00.48.19:584][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:268][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.11-00.48.20:268][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:268][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:279][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:306][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:320][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:338][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.20:350][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:427][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.11-00.48.21:427][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:427][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:435][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:455][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:465][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:485][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:499][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:524][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.21:537][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:441][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.11-00.48.22:441][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:441][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:450][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:468][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:477][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:500][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:510][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:532][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.22:543][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:410][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.11-00.48.23:410][573]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:410][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:418][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:436][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:445][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:464][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:473][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:496][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.23:506][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.11-00.48.26:792][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 361
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 351
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 341
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 331
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.26:793][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:803][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:825][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:835][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:859][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:869][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:892][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:903][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:926][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:936][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:965][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:975][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.26:997][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:005][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:196][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:241][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:304][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:349][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:380][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.27:390][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:301][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:309][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:331][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:345][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:367][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:377][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:400][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.28:410][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.29:896][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.11.11-00.48.29:896][573]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.29:896][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.29:939][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.29:989][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:027][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:035][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:052][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:060][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:065][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:089][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:099][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.30:106][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:291][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:292][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:331][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:350][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:358][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:363][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:384][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:393][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:411][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:422][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.31:426][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:464][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:473][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:502][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:514][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:578][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:628][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:691][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:736][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:770][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:784][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:808][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:820][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:851][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.33:863][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:011][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.11.11-00.48.35:011][573]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:011][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:019][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:039][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:049][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:069][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:078][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:104][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:115][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:135][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:142][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:661][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:668][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:685][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.35:695][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:651][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:662][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:685][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:694][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:717][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:727][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:751][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.36:761][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:801][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.11.11-00.48.37:801][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:801][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.11-00.48.37:801][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:801][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:811][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:830][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:842][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:869][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:879][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:906][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.37:918][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:766][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:775][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:797][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:808][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:833][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:846][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:856][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.38:883][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:661][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:676][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:699][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:707][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:725][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.39:739][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:665][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.11-00.48.40:665][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:665][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.11-00.48.40:665][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:665][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:675][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.11-00.48.40:675][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:675][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:696][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:707][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:725][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:735][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:759][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.40:771][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:914][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:922][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:943][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:952][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:971][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.41:981][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:006][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:015][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:038][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:047][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:877][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.11-00.48.42:877][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:878][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.42:887][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:011][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.11-00.48.43:011][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:011][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:023][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:037][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:073][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:746][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:755][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:776][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:784][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:801][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.43:812][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 321
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 311
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.44:515][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:519][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:537][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.11-00.48.44:537][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:537][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:545][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:574][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.44:589][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:554][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:563][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:583][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:592][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:615][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:625][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:649][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.45:658][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:660][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:668][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:691][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:701][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:728][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.11-00.48.46:728][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:728][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:735][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:757][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.46:769][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:164][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:171][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:189][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:196][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:221][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:230][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:244][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:251][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:275][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:285][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:315][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.48:324][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:169][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:181][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:205][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:217][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:239][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:249][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:269][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.49:279][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 301
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 291
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.50:280][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:289][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:310][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:319][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:339][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:349][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:376][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.50:387][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:376][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.11-00.48.51:376][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:376][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.11-00.48.51:376][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:376][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:383][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:401][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:410][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:435][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.11-00.48.51:435][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:435][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:445][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:472][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.11-00.48.51:472][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:472][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.51:481][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:446][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.11-00.48.52:446][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:446][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.48.52:446][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:446][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:454][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:473][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:482][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:502][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:511][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:535][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.52:544][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:284][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.11-00.48.53:284][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:284][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.11-00.48.53:284][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:284][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:335][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:359][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:370][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.53:376][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:133][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.11-00.48.54:133][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:133][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.11-00.48.54:133][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:134][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:143][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:166][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:175][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:196][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.54:211][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:219][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:220][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:229][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:249][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:256][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:278][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:288][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:318][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:330][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:348][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.55:357][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.11-00.48.56:641][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 281
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 271
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.48.56:642][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:650][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:750][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.11-00.48.56:750][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:750][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:759][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:782][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:789][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:812][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:826][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.11-00.48.56:826][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:826][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:844][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.56:899][573]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.57:185][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.11-00.48.57:185][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.57:835][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.11-00.48.57:835][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.48.58:035][573]LogMeshUtilities: Finished distance field build in 0.1s - 8x15x8 distance field, 212 triangles, Range [-0.1, 0.4], Shape_Pipe
+[2021.11.11-00.48.58:035][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 756 triangles, Range [-0.1, 1.0], lamp_4
+[2021.11.11-00.48.58:035][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 634 triangles, Range [-0.1, 1.0], lamp_3
+[2021.11.11-00.48.58:035][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 14 triangles, Range [-0.7, 1.0], Shape_Wedge_B
+[2021.11.11-00.48.58:236][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x21 distance field, 2340 triangles, Range [-0.0, 0.4], lamp_12
+[2021.11.11-00.48.58:236][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 768 triangles, Range [-0.1, 0.7], Shape_Tube
+[2021.11.11-00.48.58:246][573]LogLinker: Warning: Asset '../../../../../Unreal Engine Projects/Github/DeathByDarkness/Content/MSPresets/MSTextures/MetalnessVT.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.11-00.48.58:247][573]LogLinker: Warning: Asset '../../../../../Unreal Engine Projects/Github/DeathByDarkness/Content/MSPresets/MSTextures/noise_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.11-00.48.58:254][573]LogLinker: Warning: Asset '../../../../../Unreal Engine Projects/Github/DeathByDarkness/Content/MSPresets/MSTextures/Displacement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.11-00.48.58:258][573]LogLinker: Warning: Asset '../../../../../Unreal Engine Projects/Github/DeathByDarkness/Content/MSPresets/MSTextures/AO.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.11-00.48.58:348][573]LogLinker: Warning: Asset '../../../../../Unreal Engine Projects/Github/DeathByDarkness/Content/MSPresets/MSTextures/noise_mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.11-00.48.58:362][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\MainMenu\UI_HowToPlay.uasset: [Compiler] On Clicked (EpicButton)  does not have a valid matching component!
+[2021.11.11-00.48.58:362][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\MainMenu\UI_HowToPlay.uasset: [Compiler] On Clicked (HighButton)  does not have a valid matching component!
+[2021.11.11-00.48.58:362][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\MainMenu\UI_HowToPlay.uasset: [Compiler] On Clicked (MedButton)  does not have a valid matching component!
+[2021.11.11-00.48.58:363][573]LogBlueprint: Warning: [AssetLog] Q:\Unreal Engine Projects\Github\DeathByDarkness\Content\MainMenu\UI_HowToPlay.uasset: [Compiler] On Clicked (LowButton)  does not have a valid matching component!
+[2021.11.11-00.48.58:469][573]LogMeshUtilities: Finished distance field build in 0.3s - 13x40x17 distance field, 1782 triangles, Range [-0.0, 0.6], SM_Couch
+[2021.11.11-00.48.58:480][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2021.11.11-00.48.59:417][573]LogMeshUtilities: Finished distance field build in 0.9s - 60x10x45 distance field, 12 triangles, Range [-0.0, 0.5], Wall_400x300
+[2021.11.11-00.48.59:417][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 1680 triangles, Range [-0.1, 0.4], torch_jj
+[2021.11.11-00.48.59:567][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 512 triangles, Range [-0.7, 0.7], Shape_Cylinder
+[2021.11.11-00.48.59:583][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x14 distance field, 284 triangles, Range [-0.4, 1.0], Shape_Cone
+[2021.11.11-00.48.59:762][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x15x8 distance field, 146 triangles, Range [-0.1, 0.4], Shape_Trim
+[2021.11.11-00.49.01:318][573]LogMeshUtilities: Finished distance field build in 1.6s - 27x35x43 distance field, 1228 triangles, Range [-0.3, 0.9], SM_Rock
+[2021.11.11-00.49.03:893][573]LogMeshUtilities: Finished distance field build in 2.6s - 37x40x40 distance field, 11983 triangles, Range [-0.5, 1.0], SM_MatPreviewMesh_02
+[2021.11.11-00.49.03:909][573]LogMeshUtilities: Finished distance field build in 0.1s - 8x13x30 distance field, 1472 triangles, Range [0.0, 0.4], SM_Door
+[2021.11.11-00.49.04:176][573]LogMeshUtilities: Finished distance field build in 0.2s - 16x18x20 distance field, 813 triangles, Range [-0.1, 1.0], SM_Bush
+[2021.11.11-00.49.04:176][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1054 triangles, Range [-0.2, 0.7], lamp_5
+[2021.11.11-00.49.04:193][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x10 distance field, 2256 triangles, Range [-0.1, 0.6], lamp_7
+[2021.11.11-00.49.04:330][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x22 distance field, 1346 triangles, Range [-0.0, 0.5], lamp_16
+[2021.11.11-00.49.04:347][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.11-00.49.04:347][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.49.04:456][573]LogMeshUtilities: Finished distance field build in 0.1s - 18x15x15 distance field, 4 triangles, Range [-0.2, 1.0], Shape_TriPyramid
+[2021.11.11-00.49.04:456][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 346 triangles, Range [-0.2, 1.0], Shape_Trim_90_In
+[2021.11.11-00.49.04:472][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x8 distance field, 2304 triangles, Range [-0.2, 0.7], Shape_Torus
+[2021.11.11-00.49.04:472][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 18 triangles, Range [1.0, 1.0], Spiderweb_1
+[2021.11.11-00.49.04:606][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x14 distance field, 2498 triangles, Range [-0.1, 0.6], lamp_10
+[2021.11.11-00.49.04:606][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1020 triangles, Range [-0.1, 0.5], lamp_9
+[2021.11.11-00.49.04:743][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 832 triangles, Range [-0.7, 0.8], Shape_WideCapsule
+[2021.11.11-00.49.04:743][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 346 triangles, Range [-0.2, 1.0], Shape_Trim_90_Out
+[2021.11.11-00.49.05:636][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.11-00.49.05:636][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.49.06:143][573]LogMeshUtilities: Finished distance field build in 1.4s - 64x12x64 distance field, 140 triangles, Range [-0.0, 0.6], Wall_500x500
+[2021.11.11-00.49.06:310][573]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 14 triangles, Range [-0.6, 1.0], Shape_Wedge_A
+[2021.11.11-00.49.06:310][573]LogMeshUtilities: Finished distance field build in 0.1s - 8x15x8 distance field, 1220 triangles, Range [-0.2, 0.6], Shape_Pipe_180
+[2021.11.11-00.49.06:435][573]LogMeshUtilities: Finished distance field build in 0.1s - 12x30x9 distance field, 222 triangles, Range [-0.1, 0.5], SM_Stairs
+[2021.11.11-00.49.07:475][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.11-00.49.07:475][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.11-00.49.08:543][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 261
+[2021.11.11-00.49.08:543][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.13:876][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2021.11.11-00.49.13:876][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.14:280][573]LogMeshUtilities: Finished distance field build in 7.8s - 64x64x64 distance field, 128 triangles, Range [-0.0, 0.5], TemplateFloor
+[2021.11.11-00.49.14:280][573]LogMeshUtilities: Finished distance field build in 0.1s - 8x30x8 distance field, 636 triangles, Range [-0.0, 0.4], SM_Shelf
+[2021.11.11-00.49.14:280][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x15 distance field, 1088 triangles, Range [-0.2, 0.5], Shape_NarrowCapsule
+[2021.11.11-00.49.14:297][573]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 644 triangles, Range [-0.3, 1.0], Shape_Pipe_90
+[2021.11.11-00.49.15:235][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 241
+[2021.11.11-00.49.15:235][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.15:251][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2021.11.11-00.49.15:251][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.19:761][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 221
+[2021.11.11-00.49.19:761][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.21:684][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 211
+[2021.11.11-00.49.21:684][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.22:551][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2021.11.11-00.49.22:551][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.22:935][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2021.11.11-00.49.22:935][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.23:022][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 181
+[2021.11.11-00.49.23:022][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.23:457][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2021.11.11-00.49.23:457][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.25:216][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 161
+[2021.11.11-00.49.25:216][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.26:315][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 151
+[2021.11.11-00.49.26:315][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.26:716][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2021.11.11-00.49.26:716][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.27:463][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2021.11.11-00.49.27:463][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.29:414][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 121
+[2021.11.11-00.49.29:414][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.30:321][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 111
+[2021.11.11-00.49.30:321][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.30:652][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2021.11.11-00.49.30:652][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.30:844][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2021.11.11-00.49.30:845][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.32:308][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2021.11.11-00.49.32:308][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.32:916][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2021.11.11-00.49.32:916][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.32:951][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2021.11.11-00.49.32:951][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.33:107][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2021.11.11-00.49.33:107][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.34:064][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2021.11.11-00.49.34:064][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.35:020][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2021.11.11-00.49.35:020][573]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.35:820][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.11.11-00.49.35:820][573]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.35:942][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.11.11-00.49.35:942][573]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.36:237][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.11-00.49.36:237][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.36:584][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.11-00.49.36:584][573]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.36:896][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.11-00.49.36:896][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.37:053][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.11-00.49.37:053][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.37:191][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.11-00.49.37:191][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.49.37:191][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.11-00.49.37:191][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-00.52.08:460][573]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.11-00.52.08:669][573]LogUObjectGlobals: Force Deleting 402 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+	Asset Name: /Game/TopDownBP/Blueprints/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Player_Character/Anims/Idle.Idle
+	Asset Name: /Game/Player_Character/Anims/Nervously_Look_Around.Nervously_Look_Around
+	Asset Name: /Game/Player_Character/Model/Ch02_nonPBR_Anim_mixamo_com.Ch02_nonPBR_Anim_mixamo_com
+	Asset Name: /Game/Player_Character/Model/Ch02_nonPBR_Anim_Take_001.Ch02_nonPBR_Anim_Take_001
+	Asset Name: /Game/TopDownBP/Blueprints/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/TopDownBP/Blueprints/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/TopDownBP/Blueprints/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.11.11-00.52.21:200][573]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.11.11-01.00.50:802][573]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.11-01.00.50:802][573]LogShaderCompilers: Display: Total job queries 684, among them cache hits 0 (0.00%)
+[2021.11.11-01.00.50:802][573]LogShaderCompilers: Display: Tracking 684 distinct input hashes that result in 396 distinct outputs (57.89%)
+[2021.11.11-01.00.50:802][573]LogShaderCompilers: Display: RAM used: 5.39 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.33%
+[2021.11.11-01.00.50:802][573]LogShaderCompilers: Display: ================================================
+[2021.11.11-01.00.52:343][573]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2021.11.11-01.00.52:417][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.52:458][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.52:497][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.11.11-01.00.52:534][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.11.11-01.00.52:579][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.11.11-01.00.52:624][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-01.00.52:666][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.11.11-01.00.52:708][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-01.00.52:748][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.11-01.00.52:788][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.52:826][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.11.11-01.00.52:863][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.52:903][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.52:944][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.00.52:983][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-01.00.53:020][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-01.00.53:058][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.53:094][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.53:132][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.11-01.00.53:172][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.53:211][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.11.11-01.00.53:251][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.53:291][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.53:328][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.00.53:368][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.53:406][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.53:447][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.11.11-01.00.53:485][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-01.00.53:528][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-01.00.53:565][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.00.53:606][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.53:645][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.53:682][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.53:722][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.53:761][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.00.53:803][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.53:839][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.53:876][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.53:917][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-01.00.53:954][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.53:995][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:033][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:071][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.54:109][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.54:145][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:182][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.00.54:224][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.54:262][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:300][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.54:337][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.00.54:376][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.54:415][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.11-01.00.54:460][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.11-01.00.54:500][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.54:539][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:577][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.54:613][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.54:651][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.54:695][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.54:736][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.54:773][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.00.54:815][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.11-01.00.54:855][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.54:895][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.00.54:934][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.11-01.00.54:977][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.11-01.00.55:017][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.55:055][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:094][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.55:130][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.55:173][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.55:212][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.55:249][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.55:287][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.55:328][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.55:369][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:405][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:443][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.00.55:485][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.55:521][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.55:565][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.55:602][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:638][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.11-01.00.55:675][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.55:715][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.11.11-01.00.55:754][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.55:794][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.55:832][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.00.55:872][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:912][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.11.11-01.00.55:952][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.55:990][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.56:029][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:065][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-01.00.56:103][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:139][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:175][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:214][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:254][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:290][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:325][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.56:362][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:398][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.56:436][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.56:474][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:514][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:551][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.56:587][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:626][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.00.56:663][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:702][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:739][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.56:779][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.11.11-01.00.56:817][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:855][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.56:897][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.56:938][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.56:978][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.57:017][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.57:054][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:091][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.57:127][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.00.57:166][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.57:202][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.57:242][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.57:286][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.57:324][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.57:362][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.11-01.00.57:403][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.57:443][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.57:479][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:515][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.57:552][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:589][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.57:626][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.11-01.00.57:663][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:701][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.57:740][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:783][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.57:822][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.57:861][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.57:903][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.57:941][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-01.00.57:980][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:016][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.00.58:053][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:092][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.00.58:129][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:170][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:207][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:248][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.11-01.00.58:285][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:326][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-01.00.58:365][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.00.58:401][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:439][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:479][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.58:515][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.58:557][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:596][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:637][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:675][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.58:714][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.58:751][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.00.58:790][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.58:830][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.58:869][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.58:907][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.58:944][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.58:981][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.11.11-01.00.59:020][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:061][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:100][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:136][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.00.59:172][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.59:207][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.00.59:246][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:287][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.59:326][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.59:363][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:398][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.11-01.00.59:438][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.59:477][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.00.59:517][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.59:556][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.59:594][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.59:636][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.59:674][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.00.59:713][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.00.59:754][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.00.59:792][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.59:828][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.00.59:865][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.59:907][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.00.59:945][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.00.59:981][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.00:023][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.00:063][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.01.00:100][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.00:137][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.00:175][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:211][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:247][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.00:288][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-01.01.00:330][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.00:369][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:406][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:446][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.00:485][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:521][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.00:560][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.11.11-01.01.00:600][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.00:639][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.00:675][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.00:716][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.00:754][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.00:793][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.00:832][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.11-01.01.00:873][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.00:912][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.00:950][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.00:986][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.01:023][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:060][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.01:101][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.01:136][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:175][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:214][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.11-01.01.01:253][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:292][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.01:336][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.01.01:374][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.11-01.01.01:411][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:450][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.11.11-01.01.01:489][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:527][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.01:570][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.01:608][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.01:645][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:682][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.01:720][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:756][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:793][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:835][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:873][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.01:911][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.01:948][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.01.01:989][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.02:029][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.02:068][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.01.02:108][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.01.02:144][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:181][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.02:218][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.11.11-01.01.02:256][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:298][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.11.11-01.01.02:335][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:372][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:409][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.01.02:452][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.02:490][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.02:526][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.02:563][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.02:600][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-01.01.02:637][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:680][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.02:718][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.02:756][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.02:793][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.02:834][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.02:871][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.02:908][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.02:951][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.02:987][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:024][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:060][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:101][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.01.03:142][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:218][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.11.11-01.01.03:262][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.03:302][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:339][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.03:377][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.03:416][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.03:453][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:491][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.03:530][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.03:568][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.03:606][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:646][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.03:683][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.03:720][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:755][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:792][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:828][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.03:867][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:904][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.03:940][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.03:981][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.11-01.01.04:021][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:059][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.04:100][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.11-01.01.04:141][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.04:179][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.04:217][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.04:253][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.01.04:290][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.04:329][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.04:364][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:403][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.04:441][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.04:479][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.04:518][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.04:557][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.04:597][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:634][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.01.04:673][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.04:711][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:747][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.11-01.01.04:793][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.04:838][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:880][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.04:918][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.04:955][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.04:995][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.05:034][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:071][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:110][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:147][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.05:184][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:222][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:259][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-01.01.05:296][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:337][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:373][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.05:408][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.11-01.01.05:457][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.11-01.01.05:497][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:534][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:572][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:614][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.01.05:652][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.05:695][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.05:735][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:773][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.05:815][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.11-01.01.05:852][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.05:891][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.05:929][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.01.05:966][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:005][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.06:043][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:082][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.11.11-01.01.06:121][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.01.06:159][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.11-01.01.06:201][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.11-01.01.06:237][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.06:277][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.06:317][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:359][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.11.11-01.01.06:398][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.11-01.01.06:441][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:479][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:517][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.06:553][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.06:592][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-01.01.06:631][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.06:669][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.06:708][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.06:746][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:783][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:820][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.06:860][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.06:899][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.06:941][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.06:981][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.07:019][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.07:055][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.07:092][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.11-01.01.07:130][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.07:165][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.11-01.01.07:204][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.07:243][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.07:280][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.07:316][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.07:352][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.07:390][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.07:428][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.07:466][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.07:508][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.07:546][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.01.07:585][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.11-01.01.07:623][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.11-01.01.07:663][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.11-01.01.07:702][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.07:740][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.11-01.01.07:780][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.11-01.01.07:818][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.11-01.01.07:856][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.07:896][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.11-01.01.07:934][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.11-01.01.07:976][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.11.11-01.01.08:013][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.11-01.01.08:256][575]LogStaticMesh: Allocated 512x256x64 distance field atlas = 16.0Mb, with 114 objects containing 9.9Mb backing data
