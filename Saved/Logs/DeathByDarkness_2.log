@@ -2473,3 +2473,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-01.10.05:537][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2021.11.11-01.10.05:581][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
 [2021.11.11-01.10.05:619][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.11.11-01.10.21:365][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.11.11-01.10.27:940][251]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.11-01.10.28:027][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.11.11-01.10.28:065][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.11-01.10.28:100][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.11-01.10.28:135][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.11-01.10.28:179][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.11.11-01.10.28:214][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
